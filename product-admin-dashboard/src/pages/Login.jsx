@@ -77,8 +77,8 @@ function Login() {
         </button>
 
         <div className="credentials">
-          <p>Demo username: emilys</p>
-          <p>Demo password: emilyspass</p>
+          <p>Username: emilys</p>
+          <p>Password: emilyspass</p>
         </div>
       </form>
     </div>
